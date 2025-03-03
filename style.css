@@ -34,6 +34,7 @@
     gap: 40px;
 }
 
+/*Estilo da Imagem de perfil */
 .imgperfil-titulo {
     display: flex;
     flex-direction: column;
